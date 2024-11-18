@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-🔍 **Apaixonado por tecnologia**, estou sempre em busca de aprimoramento!  
+🔍 Estou sempre em busca de aprimoramento na tecnologia!  
 💬 **Comunicativo**, gosto de trocar ideias e estar sempre aprendendo.  
 👨‍💻 **Curto programar em C#** e **SQL**, além de explorar novas ferramentas e linguagens.
 
