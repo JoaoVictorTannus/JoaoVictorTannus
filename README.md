@@ -7,7 +7,7 @@
 ## 🚀 Sobre Mim
 
 🔍 **Apaixonado por tecnologia**, estou sempre em busca de aprimoramento!  
-💬 **Comunicativo**, gosto de trocar ideias e aprender com outras pessoas.  
+💬 **Comunicativo**, gosto de trocar ideias e estar sempre aprendendo.  
 👨‍💻 **Curto programar em C#** e **SQL**, além de explorar novas ferramentas e linguagens.
 
 🎯 **Meu objetivo** é construir uma carreira sólida e próspera na área de tecnologia!
@@ -26,4 +26,4 @@
 
 ---
 
-*Imagem criada por [Storyset](https://www.freepik.com) - www.freepik.com*
+
