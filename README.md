@@ -1,6 +1,7 @@
 👋 Olá, sou João Victor Oliveira Tannus!
 
 🎓 Estudante de Ciência de Dados | 💻 Profissional na área de tecnologia
+
 🧑‍💼 Trabalhando no Grupo CCR
 
 📚 Técnico em Análise e Desenvolvimento de Sistemas
