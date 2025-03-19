@@ -1,7 +1,7 @@
 # 👋 Olá, sou João Victor Oliveira Tannus!
 
 🎓 **Estudante de Ciência de Dados** | 💻 **Profissional na área de tecnologia**  
-🧑‍💼 **Trabalhando no Grupo CCR**  
+🧑‍💼 **Trabalhando no Itaú Unibanco **  
 📚 **Técnico em Análise e Desenvolvimento de Sistemas**
 
 ## 🚀 Sobre Mim
@@ -18,7 +18,7 @@
 
 ## 🌍 Conecte-se comigo
 
-[LinkedIn](www.linkedin.com/in/joãovictortannus) | [GitHub](https://github.com/JoaoVictorTannus) 
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3ovictortannus/) | [GitHub](https://github.com/JoaoVictorTannus) 
 
 ## 📊 GitHub Stats
 
